@@ -1,0 +1,31 @@
+.navbar{ background:#111;}
+
+.PAS{
+  color:#fff;
+}
+
+
+.nav-link , .navbar-brand{
+  color: #f4f4f4;
+  cursor: pointer;}
+
+.nav-link{
+  margin-right: 1em !important;
+}
+
+
+.nav-link:hover{ background: #f4f4f4; color: #000; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+.navbar-toggler{
+  background:#fff!important;}
+
+.navbar-collapse{
+ justify-content: flex-end;
+}
+
+
+.classbox:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
